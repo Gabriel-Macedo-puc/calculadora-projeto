@@ -1,15 +1,21 @@
 # Relatório - Versão v1.0
 
 ## a) O que foi modificado no projeto?
-- Foram adicionados novos métodos à classe `Calculadora`: multiplicar, subtrair, conversão de temperatura.
+- Foram adicionados os seguintes métodos na classe Calculadora:
+  - somar
+  - subtrair
+  - multiplicar
+  - converter_celsius_para_fahrenheit
 
 ## b) Por quem?
-- Método multiplicar → Gabriel
-- Método subtrair → [nome do colega, se houver]
-- Método conversão → [nome do colega, se houver]
+- Todos os métodos implementados por Gabriel.
 
 ## c) Como garantiríamos a integridade dessa versão?
-- Uso de branches para cada desenvolvedor.
-- Revisão em dupla antes do merge.
-- Tag v1.0 para marcar a versão estável.
-- Histórico de commits registrado no Git.
+- Uso de branches (`feature-gabriel`) para implementar funcionalidades.
+- Revisão em dupla antes do merge (simulado/aprovado).
+- Merge realizado na `main` somente após aprovação.
+- Tag `v1.0` criada para marcar a versão estável.
+- Histórico de commits registrado (`ff4577f`), garantindo rastreabilidade.
+
+## Histórico de commits
+* ff4577f (HEAD -> main, tag: v1.0, origin/main, origin/feature-gabriel, feature-gabriel) Implementa métodos somar, subtrair, multiplicar e conversão de temperatura
