@@ -8,7 +8,7 @@
   - converter_celsius_para_fahrenheit
 
 ## b) Por quem?
-- Todos os métodos implementados por Gabriel.
+- Todos.
 
 ## c) Como garantiríamos a integridade dessa versão?
 - Uso de branches (`feature-gabriel`) para implementar funcionalidades.
